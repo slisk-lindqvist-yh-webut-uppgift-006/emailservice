@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D5tAWx4APEQ=",
+  "success": true,
+  "projectFilePath": "/home/querzion/RiderProjects/slisk.lindqvist-yh.webut.uppgift.006/Backends/EmailService/Presentation/Presentation.csproj",
+  "expectedPackageFiles": [
+    "/home/querzion/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/home/querzion/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
